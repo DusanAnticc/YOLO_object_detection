@@ -36,3 +36,9 @@ Podatke za treniranje smo prikupili sami i uz pomoc alata za labeliranje označi
 
 # Test
 Neki podaci o testiranju
+
+# Korisni linkovi
+- [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+- [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
+- https://www.youtube.com/watch?v=hTCmL3S4Obw
+- [https://github.com/tzutalin/labelImg](https://github.com/tzutalin/labelImg)
