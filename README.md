@@ -37,10 +37,7 @@ Instalacija projekta opisana je na sledećim linkovima:
 Za potrebe treniranja neuronske mreže koristili smo slike namirnica (banana, jabuka, sendviča, šargarepe I flaše) koje smo pronašli na internetu I ručno labelirali. Za našu mrežu koristili smo ukupno 177 slika koje smo podelili u trening I testni skup.
 
 # Trening
-Podatke za treniranje smo prikupili sami i uz pomoc alata za labeliranje označili svaku sliku, nad tim podacima smo trenirali našu neuronsku mrezu i kao rezultat dobili mrežu koja sa vise ili manje uspeha prepoznaje testne slike
-
-# Test
-Neki podaci o testiranju
+Podatke za treniranje smo prikupili sami i uz pomoc alata za labeliranje označili svaku sliku, nad tim podacima smo trenirali našu neuronsku mrezu i kao rezultat dobili mrežu koja prepoznaje testne slike
 
 # Korisni linkovi
 - [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
